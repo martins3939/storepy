@@ -29,3 +29,10 @@ To get a local copy up and running follow these simple example steps.
    ```
    pip install -r requirements.txt
    ```
+   
+### Usage
+
+* Run the Flask app
+   ```sh
+   flask run
+   ```
